@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalCie</string>
+    <string name="Quiz_1">Quiz 1</string>
+    <string name="Quiz_2">Quiz 2</string>
+    <string name="Quiz_3">Quiz 3</string>
+    <string name="Quiz_4">Quiz 4</string>
+    <string name="ass">Assignment</string>
+    <string name="Test_1">Test 1</string>
+    <string name="Test_2">Test 2</string>
+    <string name="buttonCal">Calculate Cie</string>
+    <string name="AssignmentMore">High on Weed?</string>
+
+
+</resources>
